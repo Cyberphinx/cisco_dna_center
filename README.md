@@ -5,16 +5,16 @@
     Authenticate and retrieve a token from Cisco DNA Center.
     Build an authentication Python function.
 
-## Cisco DNA Center Platform - Network Devices
+## Cisco DNA Center Platform - Network Devices:
 
     Pull network device list from your network.
     Build a Python function and parse the data.
 
-## Cisco DNA Center Platform - Command Runner
+## Cisco DNA Center Platform - Command Runner:
 
     Explore and learn Cisco DNA Intent API Command Runner methods.
 
-## Cisco DNA Center Platform - Template Programmer
+## Cisco DNA Center Platform - Template Programmer:
 
     Understand Template Programmer and explore the Template Programmer API documentation.
     Use the Template Programmer APIs query configuration templates from Cisco DNA Center Platform.
