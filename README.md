@@ -20,6 +20,11 @@
     Use the Template Programmer APIs query configuration templates from Cisco DNA Center Platform.
     Create a Python script that allows the deployment of configuration templates to the network.
 
+## Cisco DNA SDK:
+
+    Construct a Python script that uses a Cisco SDK given SDK documentation
+    (https://dnacentersdk.readthedocs.io/en/latest/api/intro.html)
+
 #### https://sandboxdnac.cisco.com/
 
 #### https://developer.cisco.com/learning/modules/dnac-rest-apis/
